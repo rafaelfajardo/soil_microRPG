@@ -4,6 +4,8 @@ soil
 You have one mission:
 
 Work on the soil. 
-Allow now species to be harmed while you do so. 
+Allow no species to be harmed while you do so. 
 When your time is done, 
 become one with the soil. 
+
+###
